@@ -59,15 +59,6 @@ var area2 = "Fnaitees"
 var password2 = "Abood007"
 var isKuwaiti2 = true
 
-
-
-
-
-
-
-
-
-
 //Person 3
 var firstName3 = "Fatimah"
 var lastName3 = "Alhashem"
